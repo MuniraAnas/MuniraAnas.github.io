@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Munira Anas"
-  avatar : "/assets/images/Github.jpg.jpg"
+  avatar : "/assets/images/Github.jpg"
   bio    : "An aspiring Clinical Psychologist fascinated by data. Join me on my journey!"
   links:
     - label: "Website"
